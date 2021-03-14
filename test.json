@@ -1,1 +1,1 @@
-{ "iot2tangle": [ { "sensor": "CO2", "data": [ { "ppm": 600 } ] }, { "sensor": "info", "data": [ { "about": "HAK Imst goes Tangle!" } ] } ], "device": "DEVICE_ID_1", "timestamp": 1558511111 }
+{ "iot2tangle": [ { "sensor": "CO2", "data": [ { "ppm": 600, "classroom": "969c72783640eeba4f30d31badd8d902a528abc2036ba18d70629e777fbf4f3a" } ] }, { "sensor": "info", "data": [ { "about": "HAK Imst goes Tangle!" } ] } ], "device": "DEVICE_ID_1", "timestamp": 1558511111 }
