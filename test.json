@@ -1,0 +1,1 @@
+{ "iot2tangle": [ { "sensor": "CO2", "data": [ { "ppm": 600 } ] }, { "sensor": "info", "data": [ { "about": "HAK Imst goes Tangle!" } ] } ], "device": "DEVICE_ID_1", "timestamp": 1558511111 }
